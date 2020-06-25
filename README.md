@@ -1,5 +1,5 @@
 # Calculating indexes of inequality
-### WORK IN PROGRESS
+
 Code that provides examples on how to calculate different indexes of inequality. For more information on the measures, please read: 
 
 ## Instructions:
