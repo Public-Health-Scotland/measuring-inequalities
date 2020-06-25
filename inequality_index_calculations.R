@@ -1,4 +1,3 @@
-# WORK IN PROGRESS
 # Code for calculating different index of inequality
 # For more information on the measures, please read: 
 # 
